@@ -1,0 +1,25 @@
+{
+  "name": "robocode",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"test\";",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghysal/robocode.git"
+  },
+  "author": "ghysal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghysal/robocode/issues"
+  },
+  "homepage": "https://github.com/ghysal/robocode#readme"
+}

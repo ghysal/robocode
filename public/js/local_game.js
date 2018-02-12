@@ -1,0 +1,3 @@
+var posRed = [];
+var posBlue = [];
+
