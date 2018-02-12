@@ -17,7 +17,22 @@ header {
 	width: 30%;
 }
 
-tr {
-	display: block;
-	background-color: black;
+#damier {
+  border-collapse: collapse;
+  border: solid 1px black;
+}
+
+td {
+  width: 15px;
+  height: 15px;
+  margin: 0;
+  padding: 0;
+}
+
+.white {
+  background-color: white
+}
+
+.black {
+  background-color: black
 }
