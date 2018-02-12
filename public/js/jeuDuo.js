@@ -1,7 +1,6 @@
 var posRed = [];
 var posBlue = [];
 
-alert("test");
 
 jQuery(function() {
   function range(n) {
@@ -27,5 +26,5 @@ jQuery(function() {
     });
   }
 
-  printDamier(10);
+  printDamier(9);
 })
